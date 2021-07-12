@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vshanukova@gmail.com
+	name = Victoria Shanukova
